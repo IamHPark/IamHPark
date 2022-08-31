@@ -23,10 +23,10 @@
   <img src="https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=Figma&logoColor=white"/>&nbsp
 </p>
 </br>
-<h3 align="center"> 💚 Project Live Demo 💚 </h3>
+<h3 align="center"> 💚 Projects 💚 </h3>
 
 <div align="center">
-<a href="https://lighthouse-town.herokuapp.com" target="_blank"><p>Lighthouse-town : a gamification caht app</p></a>
+<a href="https://github.com/mikyYun/lighthouse_town" target="_blank"><p>Lighthouse-town : a gamification caht app</p></a>
 <a href="https://pickthedishes.herokuapp.com" target="_blank"><p>Pick The Dishes : a food order and order management app for a restaurant</p></a>
 </div>
 </br>
