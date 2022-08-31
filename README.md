@@ -22,8 +22,13 @@
   <img src="https://img.shields.io/badge/Cypress-17202c?style=flat-square&logo=Cypress&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=Figma&logoColor=white"/>&nbsp
 </p>
-
 </br>
+<h3 align="center"> 💚 Project Live Demo 💚 </h3>
+
+<div align="center">
+<a href="lighthouse-town.herokuapp.com"><p>Lighthouse-town : a gamification caht app</p></a>
+<a href="pickthedishes.herokuapp.com"><p>Pick The Dishes : a food order and order management app for a restaurant</p></a>
+</div>
 </br>
 
 <p align="center">
