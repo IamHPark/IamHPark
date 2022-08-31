@@ -6,7 +6,6 @@
 </p>
 
 <h3 align="center"> 🧡 &nbsp&nbsp Tech Stack &nbsp&nbsp 🧡</h3>
-
 </br>
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-FFAE42?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp
@@ -23,6 +22,19 @@
   <img src="https://img.shields.io/badge/Cypress-17202c?style=flat-square&logo=Cypress&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=Figma&logoColor=white"/>&nbsp
 </p>
+
+</br>
+</br>
+
+<p align="center">
+🔭 I’m currently open to work </br>
+🌱 I’m currently learning React & Redux 
+</p>
+
+<h3 align="center"> 💜 Reach Me Out 💜 </h3>
+<p align="center"><a href="https://www.linkedin.com/in/heesoo-park/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a></p>
+
+
 
 <!--
 **IamHPark/IamHPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
