@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=800&text=Heesoo%20Park&fontSize=60)
-<h1 align="center"> Hi there, I'm Heesoo 👋 </h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=800&text=Hi,%20I'm%20Heesoo&fontSize=60)
 <p align="center">
   User-centered developer with years of experience as a financial advisor and marketing specialist. </br>
   Passionate about learning and building things on the Internet that prioritize user experience.</br>
