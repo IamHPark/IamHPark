@@ -26,8 +26,8 @@
 <h3 align="center"> 💚 Project Live Demo 💚 </h3>
 
 <div align="center">
-<a href="https://lighthouse-town.herokuapp.com"><p>Lighthouse-town : a gamification caht app</p></a>
-<a href="https://pickthedishes.herokuapp.com"><p>Pick The Dishes : a food order and order management app for a restaurant</p></a>
+<a href="https://lighthouse-town.herokuapp.com" target="_blank"><p>Lighthouse-town : a gamification caht app</p></a>
+<a href="https://pickthedishes.herokuapp.com" target="_blank"><p>Pick The Dishes : a food order and order management app for a restaurant</p></a>
 </div>
 </br>
 
