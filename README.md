@@ -26,7 +26,9 @@
 <h3 align="center"> 💚 Projects 💚 </h3>
 
 <div align="center">
-<a href="https://github.com/mikyYun/lighthouse_town" target="_blank"><p>Lighthouse-town : a gamification caht app</p></a>
+<a href="https://lighthouse-town.herokuapp.com" target="_blank"><p>Lighthouse-town : a gamification caht app</p></a>
+<p>You can test the app with ID: test1@test.com PW: heesoo / ID: test@test.com PW: moon / ID: test2@test.com PW: mike </p>
+<p>or register a new user! </p>
 <a href="https://pickthedishes.herokuapp.com" target="_blank"><p>Pick The Dishes : a food order and order management app for a restaurant</p></a>
 <a href="https://github.com/tinyapp" target="_blank"><p>Tiny App : a shorten url app for sharing</p></a>
 </div>
