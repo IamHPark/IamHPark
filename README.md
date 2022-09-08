@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=800&text=Hi,%20I'm%20Heesoo&fontSize=60)
+
 <p align="center">
   User-centered developer with years of experience as a financial advisor and marketing specialist. </br>
   Passionate about learning and building things on the Internet that prioritize user experience.</br>
@@ -13,7 +14,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Express-2E77BC?style=flat-square&logo=Express&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Express-2E77BC?style=flat-square&logo=Express&logoColor=white"/>&nbsp
   </br>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp
@@ -26,23 +27,31 @@
 <h3 align="center"> 💚 Projects 💚 </h3>
 
 <div align="center">
-<a href="https://lighthouse-town.herokuapp.com" target="_blank"><p>Lighthouse-town : a gamification caht app</p></a>
-<p>You can test the app with ID: test1@test.com PW: heesoo / ID: test@test.com PW: moon / ID: test2@test.com PW: mike </p>
-<p>or register a new user! </p>
-<a href="https://pickthedishes.herokuapp.com" target="_blank"><p>Pick The Dishes : a food order and order management app for a restaurant</p></a>
-<a href="https://github.com/tinyapp" target="_blank"><p>Tiny App : a shorten url app for sharing</p></a>
+  <h2>Lighthouse Town : a gamification chat web app</h2>
+  <img src="img/lighthousetown.jpg" width="300px"></br>
+  <a href="https://lighthouse-town.herokuapp.com" target="_blank"><span>LIVE DEMO&nbsp&nbsp/</span></a>
+  <a href="https://github.com/IamHPark/ligthouse-town" target="_blank"><span>&nbsp&nbspGithub Repo</span></a>
+  <p>You can test the app with id: test1@test.com pw: heesoo or register a new user!</p>
+  </br>
+
+  <h2>Pick The Dishes : restaurant ordering & management web app</h2>
+  <img src="img/pickthedish.jpg" width="300px"></br>
+  <a href="https://pickthedishes.herokuapp.com" target="_blank"><span>LIVE DEMO&nbsp&nbsp/</span></a>
+  <a href="https://github.com/IamHPark/pickthedishes" target="_blank"><span>&nbsp&nbspGithub Repo</span></a>
+    <p>Test as customer login id: 1 / as owner login id: 2</p>
+  </br>
+  <a href="https://github.com/tinyapp" target="_blank"><p>Tiny App : a shorten url app for sharing</p></a>
 </div>
 </br>
 
 <p align="center">
 🔭 I’m currently open to work </br>
-🌱 I’m currently learning React & Redux 
+🌱 I’m currently learning React & Redux</br>
+📚 I'm currently reading "Modern Javascript Deep Dive"
 </p>
 
 <h3 align="center"> 💜 Reach Me Out 💜 </h3>
 <p align="center"><a href="https://www.linkedin.com/in/heesoo-park/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a></p>
-
-
 
 <!--
 **IamHPark/IamHPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
