@@ -52,7 +52,7 @@
   
   <h2>Tiny App : a shorten url app </h2>
   <a href="https://github.com/IamHPark/tinyapp" target="_blank"><p>Github Repo</p></a>
-  <p>Tech Stack: Node.js | express | EJS | bycrpt /p>
+  <p>Tech Stack: Node.js | express | EJS | bycrpt </p>
 </div>
 </br>
 
