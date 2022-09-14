@@ -32,6 +32,7 @@
   <a href="https://lighthouse-town.herokuapp.com" target="_blank"><span>LIVE DEMO&nbsp&nbsp/</span></a>
   <a href="https://github.com/IamHPark/ligthouse-town" target="_blank"><span>&nbsp&nbspGithub Repo</span></a>
   <p>You can test the app with id: test1@test.com pw: heesoo or register a new user!</p>
+  <p>Tech Stack: React.js | Node.js | HTML Canvas | Socket.I.O</p>
   </br>
 
   <h2>Pick The Dishes : restaurant ordering & management web app</h2>
@@ -39,16 +40,19 @@
   <a href="https://pickthedishes.herokuapp.com" target="_blank"><span>LIVE DEMO&nbsp&nbsp/</span></a>
   <a href="https://github.com/IamHPark/pickthedishes" target="_blank"><span>&nbsp&nbspGithub Repo</span></a>
     <p>Test as customer login id: 1 / as owner login id: 2</p>
+    <p>Tech Stack: Node.js | express | EJS | Twilio API | ajax </p>
   </br>
   
-    <h2>Shoes Market : e-commerce website using React.js</h2>
+  <h2>Shoes Market : e-commerce website </h2>
   <img src="img/shopping-mall.jpg" width="300px"></br>
   <a href="https://iamhpark.github.io/shopping-mall/" target="_blank"><span>LIVE DEMO&nbsp&nbsp/</span></a>
   <a href="https://github.com/IamHPark/shopping-mall" target="_blank"><span>&nbsp&nbspGithub Repo</span></a>
+    <p>Tech Stack: React.js | Redux</p>
   </br>
   
-  
-  <a href="https://github.com/tinyapp" target="_blank"><p>Tiny App : a shorten url app for sharing</p></a>
+  <h2>Tiny App : a shorten url app </h2>
+  <a href="https://github.com/IamHPark/tinyapp" target="_blank"><p>Github Repo</p></a>
+  <p>Tech Stack: Node.js | express | EJS | bycrpt /p>
 </div>
 </br>
 
