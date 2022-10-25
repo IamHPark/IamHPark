@@ -51,6 +51,7 @@
   </br>
   
   <h2>Tiny App : a shorten url app </h2>
+    <img src="img/tinyapp.jpg" width="300px"></br>
   <a href="https://github.com/IamHPark/tinyapp" target="_blank"><p>Github Repo</p></a>
   <p>Tech Stack: Node.js | express | EJS | bycrpt </p>
 </div>
