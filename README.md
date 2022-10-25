@@ -29,7 +29,7 @@
 <div align="center">
   <h2>Lighthouse Town : a gamification chat web app</h2>
   <img src="img/lighthousetown.jpg" width="300px"></br>
-  <a href="https://lighthouse-town.herokuapp.com" target="_blank"><span>LIVE DEMO&nbsp&nbsp/</span></a>
+  <a href="https://main--lighthouse-town.netlify.app/" target="_blank"><span>LIVE DEMO&nbsp&nbsp/</span></a>
   <a href="https://github.com/IamHPark/lighthouse-town" target="_blank"><span>&nbsp&nbspGithub Repo</span></a>
   <p>You can test the app with id: test1@test.com pw: heesoo or register a new user!</p>
   <p>Tech Stack: React.js | Node.js | HTML Canvas | Socket.I.O</p>
