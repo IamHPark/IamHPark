@@ -25,7 +25,7 @@
 </p>
 </br>
 <h3 align="center"> 🧡 Portfolio 🧡 </h3>
-  <a href="https://iamhpark.github.io" target="_blank" align="center"><p>Check portfolio</p></a>
+  <a href="https://iamhpark.github.io" target="_blank" ><p align="center">Check portfolio</p></a>
   <br />
 <h3 align="center"> 💚 Projects 💚 </h3>
 
