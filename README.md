@@ -6,7 +6,7 @@
   Good communicator and team player who is able to empathize with people.
 </p>
 
-<h3 align="center"> 🧡 &nbsp&nbsp Tech Stack &nbsp&nbsp 🧡</h3>
+<h3 align="center"> ⚒ &nbsp&nbsp Tech Stack &nbsp&nbsp ⚒</h3>
 </br>
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-FFAE42?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp
@@ -24,6 +24,9 @@
   <img src="https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=Figma&logoColor=white"/>&nbsp
 </p>
 </br>
+<h3 align="center"> 🧡 Portfolio 🧡 </h3>
+  <a href="https://iamhpark.github.io" target="_blank" align="center"><p>Check portfolio</p></a>
+  <br />
 <h3 align="center"> 💚 Projects 💚 </h3>
 
 <div align="center">
